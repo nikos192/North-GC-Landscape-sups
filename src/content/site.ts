@@ -1,5 +1,6 @@
 export const siteConfig = {
   name: "Gold Coast Northern Landscape Supplies",
+  alternateName: "Gold Coast Landscaping Supplies / Northern Landscape Supplies",
   description:
     "Local landscaping supplies yard focused on decorative stone, sands, soils, gravels, mulches, pavers, and bagged cement with small to bulk deliveries.",
   contact: {
