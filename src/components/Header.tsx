@@ -7,9 +7,6 @@ export function Header() {
     <header className="sticky top-0 z-40 border-b border-emerald-100/70 bg-white/90 backdrop-blur">
       <Container className="flex items-center justify-between py-4">
         <Link href="/" className="flex flex-col leading-tight">
-          <span className="text-xs uppercase tracking-[0.3em] text-emerald-600">
-            {siteConfig.alternateName}
-          </span>
           <span className="text-lg font-semibold text-slate-900">
             {siteConfig.name}
           </span>
